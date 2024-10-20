@@ -1,0 +1,5 @@
+Aleister: 1, Aurora: 0
+Aleister: 2, Aurora: 0
+Aleister: 3, Aurora: 0
+Aleister: 3, Aurora: 1
+Aleister: 4, Aurora: 1

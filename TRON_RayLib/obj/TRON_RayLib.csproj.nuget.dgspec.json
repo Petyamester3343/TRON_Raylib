@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Phant0m\\source\\repos\\TRON_RayLib\\TRON_RayLib\\TRON_RayLib.csproj": {}
+    "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\TRON_RayLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Phant0m\\source\\repos\\TRON_RayLib\\TRON_RayLib\\TRON_RayLib.csproj": {
+    "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\TRON_RayLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Phant0m\\source\\repos\\TRON_RayLib\\TRON_RayLib\\TRON_RayLib.csproj",
+        "projectUniqueName": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\TRON_RayLib.csproj",
         "projectName": "TRON_RayLib",
-        "projectPath": "C:\\Users\\Phant0m\\source\\repos\\TRON_RayLib\\TRON_RayLib\\TRON_RayLib.csproj",
+        "projectPath": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\TRON_RayLib.csproj",
         "packagesPath": "C:\\Users\\Phant0m\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Phant0m\\source\\repos\\TRON_RayLib\\TRON_RayLib\\obj\\",
+        "outputPath": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

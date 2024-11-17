@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FCU7flst8wM=",
+  "dgSpecHash": "zhtOwTR2p2U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Phant0m\\source\\repos\\TRON_RayLib\\TRON_RayLib\\TRON_RayLib.csproj",
+  "projectFilePath": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\TRON_RayLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Phant0m\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Phant0m\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

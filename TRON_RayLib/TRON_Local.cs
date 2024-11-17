@@ -9,7 +9,7 @@ namespace TRON_RayLib
     internal class TRON_Local
     {
         static int w, h, scoreBarH;
-        
+
         static Vector2 p1Pos, p2Pos;
         static List<Vector2> p1Trail, p2Trail;
         static int p1Score = 0, p2Score = 0;
@@ -53,8 +53,8 @@ namespace TRON_RayLib
                         Raylib.BeginDrawing();
                         Raylib.ClearBackground(Color.Black);
 
-                        Raylib.DrawText("Enter Player 1's Name:", w/10+50, h/5+50, 25, Color.White);
-                        Raylib.DrawText(p1Name, w/10+100, h/5+100, 25, Color.SkyBlue);
+                        Raylib.DrawText("Enter Player 1's Name:", w / 10 + 50, h / 5 + 50, 25, Color.White);
+                        Raylib.DrawText(p1Name, w / 10 + 100, h / 5 + 100, 25, Color.SkyBlue);
                         HandleTextInput(ref p1Name, ref isPlayer1EnteringName); // Handle input for Player 1
 
                         Raylib.EndDrawing();
@@ -65,8 +65,8 @@ namespace TRON_RayLib
                         Raylib.BeginDrawing();
                         Raylib.ClearBackground(Color.Black);
 
-                        Raylib.DrawText("Enter Player 2's Name:", w/10+50, h/5+50, 25, Color.White);
-                        Raylib.DrawText(p2Name, w/10+100, h/5+100, 25, Color.Orange);
+                        Raylib.DrawText("Enter Player 2's Name:", w / 10 + 50, h / 5 + 50, 25, Color.White);
+                        Raylib.DrawText(p2Name, w / 10 + 100, h / 5 + 100, 25, Color.Orange);
                         HandleTextInput(ref p2Name, ref isGameReady); // Handle input for Player 2
 
                         Raylib.EndDrawing();
@@ -81,8 +81,8 @@ namespace TRON_RayLib
                         Raylib.ClearBackground(Color.Black);
 
                         // Display game over message
-                        Raylib.DrawText("GAME OVER!", w/10*3, h/5+200, 40, Color.Red);
-                        Raylib.DrawText("Press R to restart or ESC to exit.", w/5*3, h/5+250, 20, Color.White);
+                        Raylib.DrawText("GAME OVER!", w / 10 * 3, h / 5 + 200, 40, Color.Red);
+                        Raylib.DrawText("Press R to restart or ESC to exit.", w / 5 * 3, h / 5 + 250, 20, Color.White);
 
                         Raylib.EndDrawing();
 
@@ -207,11 +207,11 @@ namespace TRON_RayLib
                 Raylib.ClearBackground(Color.Black);
 
                 Raylib.DrawRectangle(0, 0, w, scoreBarH, Color.DarkGray);
-                Raylib.DrawText($"{p1Name} (Player 1)", w/50, h/50, 20, Color.SkyBlue);
-                Raylib.DrawText($"{p2Name} (Player 2)", w/10*8, h/50, 20, Color.Orange);
+                Raylib.DrawText($"{p1Name} (Player 1)", w / 50, h / 50, 20, Color.SkyBlue);
+                Raylib.DrawText($"{p2Name} (Player 2)", w / 10 * 8, h / 50, 20, Color.Orange);
 
-                Raylib.DrawText($"{p1Score}", w/50, h/50*2, 20, Color.SkyBlue);
-                Raylib.DrawText($"{p2Score}", w/10*8, h/50*2, 20, Color.Orange);
+                Raylib.DrawText($"{p1Score}", w / 50, h / 50 * 2, 20, Color.SkyBlue);
+                Raylib.DrawText($"{p2Score}", w / 10 * 8, h / 50 * 2, 20, Color.Orange);
 
                 Raylib.DrawRectangleV(p1Pos, new Vector2(10, 10), Color.Blue);
                 Raylib.DrawRectangleV(p2Pos, new Vector2(10, 10), Color.Red);

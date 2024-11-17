@@ -17,14 +17,16 @@ namespace TRON_RayLib
 
         TRON_Online network_mng;
 
-        public void StartGame(bool isServer, string ip="127.0.0.1")
+        public void StartGame(bool isServer, string ip = "127.0.0.1")
         {
             Raylib.InitWindow(1000, 1000, "TRON - VS ONLINE");
             Raylib.SetTargetFPS(60);
 
-            network_mng = new TRON_Online();
+            network_mng = new();
+            p1Trail = [];
+            p2Trail = [];
 
-            if(isServer)
+            if (isServer)
             {
                 network_mng.StartServer();
             }
@@ -33,11 +35,11 @@ namespace TRON_RayLib
                 network_mng.Connect(ip);
             }
 
-            while(!Raylib.WindowShouldClose() && gameRun)
+            while (!Raylib.WindowShouldClose() && gameRun)
             {
                 moveTimer += Raylib.GetFrameTime();
 
-                if(moveTimer >= moveDelay)
+                if (moveTimer >= moveDelay)
                 {
                     if (isServer)
                     {
@@ -80,12 +82,12 @@ namespace TRON_RayLib
                 Raylib.DrawRectangleV(p1Pos, new(10, 10), Color.Blue);
                 Raylib.DrawRectangleV(p2Pos, new(10, 10), Color.Red);
 
-                foreach(var p in p1Trail)
+                foreach (var p in p1Trail)
                 {
-                    Raylib.DrawRectangleV(p, new(10,10), Color.SkyBlue);
+                    Raylib.DrawRectangleV(p, new(10, 10), Color.SkyBlue);
                 }
 
-                foreach(var p in p2Trail)
+                foreach (var p in p2Trail)
                 {
                     Raylib.DrawRectangleV(p, new(10, 10), Color.Orange);
                 }

@@ -25,6 +25,7 @@ namespace TRON_RayLib
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
+                Disconnect();
             }
         }
 
@@ -39,6 +40,8 @@ namespace TRON_RayLib
             catch (Exception ex)
             {
                 MessageBox.Show($"Connection error: {ex.Message}");
+                Disconnect();
+
             }
         }
 
@@ -50,11 +53,12 @@ namespace TRON_RayLib
                 byte[] toSend = Encoding.ASCII.GetBytes(data);
                 stream.Write(toSend, 0, toSend.Length);
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 MessageBox.Show($"Error sending data: {ex.Message}");
+                Disconnect();
             }
-            
+
         }
 
         public Vector2 RecieveData()
@@ -69,19 +73,22 @@ namespace TRON_RayLib
                 string[] posArray = recievedData.Split(',');
                 return new Vector2(float.Parse(posArray[0]), float.Parse(posArray[1]));
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 MessageBox.Show($"Error recieving data: {ex.Message}");
+                Disconnect();
                 return Vector2.Zero;
             }
         }
 
         public void StopServer()
         {
-            if(server != null)
+            if (server != null)
             {
                 server.Stop();
                 MessageBox.Show("Server stopped!");
+                MainMenuForm obj = new();
+                obj.Show();
             }
         }
 
@@ -90,6 +97,8 @@ namespace TRON_RayLib
             stream.Close();
             client.Close();
             MessageBox.Show("Disconnected from server!");
+            MainMenuForm obj = new();
+            obj.Show();
         }
     }
 }

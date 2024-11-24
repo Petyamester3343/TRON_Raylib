@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|solutionrelative:tron_raylib\\tron_onlinegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|c:\\users\\phant0m\\desktop\\tron_raylib\\tron_raylib\\tron_ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|solutionrelative:tron_raylib\\tron_ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|c:\\users\\phant0m\\desktop\\tron_raylib\\tron_raylib\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|solutionrelative:tron_raylib\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|c:\\users\\phant0m\\desktop\\tron_raylib\\tron_raylib\\tron_online.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|solutionrelative:tron_raylib\\tron_online.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|c:\\users\\phant0m\\desktop\\tron_raylib\\tron_raylib\\mainmenuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|solutionrelative:tron_raylib\\mainmenuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,24 +31,8 @@
       "RelativeMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|solutionrelative:tron_raylib\\tron_local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|c:\\users\\phant0m\\desktop\\tron_raylib\\tron_raylib\\tron_ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|solutionrelative:tron_raylib\\tron_ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|c:\\users\\phant0m\\desktop\\tron_raylib\\tron_raylib\\tron_online.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|solutionrelative:tron_raylib\\tron_online.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\tron_raylib\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|solutionrelative:tron_raylib\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|c:\\users\\phant0m\\desktop\\tron_raylib\\tron_raylib\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|solutionrelative:tron_raylib\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|c:\\users\\phant0m\\desktop\\tron_raylib\\tron_raylib\\hiscoredbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18755B00-FFB3-4441-88B7-249526BFE8BE}|TRON_RayLib\\TRON_RayLib.csproj|solutionrelative:tron_raylib\\hiscoredbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +46,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainMenuForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\MainMenuForm.Designer.cs",
               "RelativeDocumentMoniker": "TRON_RayLib\\MainMenuForm.Designer.cs",
@@ -58,8 +54,7 @@
               "RelativeToolTip": "TRON_RayLib\\MainMenuForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T22:58:05.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T22:58:05.783Z"
             },
             {
               "$type": "Document",
@@ -67,66 +62,42 @@
               "Title": "TRON_OnlineGame.cs",
               "DocumentMoniker": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\TRON_OnlineGame.cs",
               "RelativeDocumentMoniker": "TRON_RayLib\\TRON_OnlineGame.cs",
-              "ToolTip": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\TRON_OnlineGame.cs*",
-              "RelativeToolTip": "TRON_RayLib\\TRON_OnlineGame.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\TRON_OnlineGame.cs",
+              "RelativeToolTip": "TRON_RayLib\\TRON_OnlineGame.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T22:19:06.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HiScoreDBHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\HiScoreDBHelper.cs",
-              "RelativeDocumentMoniker": "TRON_RayLib\\HiScoreDBHelper.cs",
-              "ToolTip": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\HiScoreDBHelper.cs",
-              "RelativeToolTip": "TRON_RayLib\\HiScoreDBHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T23:54:15.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Launcher.cs",
               "DocumentMoniker": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\Launcher.cs",
               "RelativeDocumentMoniker": "TRON_RayLib\\Launcher.cs",
               "ToolTip": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\Launcher.cs",
               "RelativeToolTip": "TRON_RayLib\\Launcher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T23:48:14.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TRON_AI.cs",
-              "DocumentMoniker": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\TRON_AI.cs",
-              "RelativeDocumentMoniker": "TRON_RayLib\\TRON_AI.cs",
-              "ToolTip": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\TRON_AI.cs",
-              "RelativeToolTip": "TRON_RayLib\\TRON_AI.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAowEsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T21:24:30.613Z",
+              "WhenOpened": "2024-10-14T23:48:14.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "TRON_Online.cs",
               "DocumentMoniker": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\TRON_Online.cs",
               "RelativeDocumentMoniker": "TRON_RayLib\\TRON_Online.cs",
               "ToolTip": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\TRON_Online.cs",
               "RelativeToolTip": "TRON_RayLib\\TRON_Online.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T21:18:51.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "TRON_Local.cs",
               "DocumentMoniker": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\TRON_Local.cs",
               "RelativeDocumentMoniker": "TRON_RayLib\\TRON_Local.cs",
@@ -134,12 +105,11 @@
               "RelativeToolTip": "TRON_RayLib\\TRON_Local.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAAswHAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T20:49:39.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T20:49:39.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MainMenuForm.cs",
               "DocumentMoniker": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\MainMenuForm.cs",
               "RelativeDocumentMoniker": "TRON_RayLib\\MainMenuForm.cs",
@@ -152,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainMenuForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\MainMenuForm.cs",
               "RelativeDocumentMoniker": "TRON_RayLib\\MainMenuForm.cs",
@@ -160,6 +130,25 @@
               "RelativeToolTip": "..\\..\\source\\repos\\TRON_RayLib\\TRON_RayLib\\MainMenuForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T19:17:01.367Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TRON_AI.cs",
+              "DocumentMoniker": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\TRON_AI.cs",
+              "RelativeDocumentMoniker": "TRON_RayLib\\TRON_AI.cs",
+              "ToolTip": "C:\\Users\\Phant0m\\Desktop\\TRON_Raylib\\TRON_RayLib\\TRON_AI.cs",
+              "RelativeToolTip": "TRON_RayLib\\TRON_AI.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAhwI0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:24:30.613Z",
+              "EditorCaption": ""
             }
           ]
         }

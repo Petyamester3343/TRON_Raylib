@@ -10,7 +10,7 @@ namespace TRON_RayLib
         {
             using var conn = new SQLiteConnection(connStr);
             conn.Open();
-            string query = @"create table if not exists PlayerScores ("+
+            var query = @"create table if not exists PlayerScores ("+
                             "match_id integer primary key autoincrement, "+
                             "p1_name text not null, " +
                             "p1_score integer not null, " +
@@ -24,7 +24,7 @@ namespace TRON_RayLib
         {
             using var conn = new SQLiteConnection(connStr);
             conn.Open();
-            string insert = "insert into PlayerScores (p1_name, p1_score, p2_name, p2_score) " +
+            var insert = "insert into PlayerScores (p1_name, p1_score, p2_name, p2_score) " +
                 "values (@p1_name, @p1_score, @p2_name, @p2_score)";
             var cmd = new SQLiteCommand(insert, conn);
             cmd.Parameters.AddWithValue("@p1_name", p1Name);
@@ -40,18 +40,18 @@ namespace TRON_RayLib
 
             using var conn = new SQLiteConnection(connStr);
             conn.Open();
-            string select = "select p1_name, p1_score, p2_name, p2_score "+
+            var select = "select p1_name, p1_score, p2_name, p2_score "+
                 "from PlayerScores order by score desc limit @top";
             var cmd = new SQLiteCommand(select, conn);
             cmd.Parameters.AddWithValue("@top", top);
-            SQLiteDataReader dr = cmd.ExecuteReader();
+            var dr = cmd.ExecuteReader();
 
             while (dr.Read())
             {
-                string p1Name = dr.GetString(0);
-                int p1Score = dr.GetInt32(1);
-                string p2Name = dr.GetString(2);
-                int p2Score = dr.GetInt32(3);
+                var p1Name = dr.GetString(0);
+                var p1Score = dr.GetInt32(1);
+                var p2Name = dr.GetString(2);
+                var p2Score = dr.GetInt32(3);
                 scores.Add((p1Name, p1Score, p2Name, p2Score));
             }
             

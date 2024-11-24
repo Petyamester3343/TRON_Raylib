@@ -7,7 +7,7 @@ namespace TRON_RayLib
 {
     internal class TRON_Online
     {
-        TcpListener? server;
+        TcpListener server;
         TcpClient client;
         NetworkStream stream;
 
@@ -41,7 +41,6 @@ namespace TRON_RayLib
             {
                 MessageBox.Show($"Connection error: {ex.Message}");
                 Disconnect();
-
             }
         }
 
@@ -97,7 +96,7 @@ namespace TRON_RayLib
             stream.Close();
             client.Close();
             MessageBox.Show("Disconnected from server!");
-            MainMenuForm obj = new();
+            using MainMenuForm obj = new();
             obj.Show();
         }
     }

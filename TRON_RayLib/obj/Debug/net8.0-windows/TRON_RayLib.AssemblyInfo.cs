@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TRON_RayLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+952001615fd2bb4eccbc2d1d88b7877b6a7b8808")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78d093809ba125379697bea50f21bc9eebe805f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("TRON_RayLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TRON_RayLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
